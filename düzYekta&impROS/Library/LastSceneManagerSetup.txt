@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/kant\u0131r.unity"
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hareket deneme.CSharp.Plugins", "hareket deneme.CSharp.Plugins.csproj", "{DA65B3DC-35AD-8DB1-1803-38497A1DE03E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hareket deneme.CSharp", "hareket deneme.CSharp.csproj", "{C6F778B7-C071-5007-2A59-799A7F877218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hareket deneme.CSharp.Editor", "hareket deneme.CSharp.Editor.csproj", "{2D85C603-25CF-BB8C-7B09-378DC11799CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA65B3DC-35AD-8DB1-1803-38497A1DE03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA65B3DC-35AD-8DB1-1803-38497A1DE03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA65B3DC-35AD-8DB1-1803-38497A1DE03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA65B3DC-35AD-8DB1-1803-38497A1DE03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F778B7-C071-5007-2A59-799A7F877218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F778B7-C071-5007-2A59-799A7F877218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F778B7-C071-5007-2A59-799A7F877218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F778B7-C071-5007-2A59-799A7F877218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D85C603-25CF-BB8C-7B09-378DC11799CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D85C603-25CF-BB8C-7B09-378DC11799CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D85C603-25CF-BB8C-7B09-378DC11799CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D85C603-25CF-BB8C-7B09-378DC11799CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

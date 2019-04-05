@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/Yedekler/Projeler/oyun/oyun/Assets/55.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/Yedekler/Projeler/Unity Projects/New Unity Project/Assets/asd.unity
+  isLoaded: 1
+  isActive: 1

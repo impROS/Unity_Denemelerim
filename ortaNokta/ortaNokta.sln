@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{00899C2B-89B0-5C27-C79A-A03D08996F3E}") = "ortaNokta", "Assembly-CSharp.csproj", "{51259A63-BC94-376C-5638-AE04E514D36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51259A63-BC94-376C-5638-AE04E514D36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51259A63-BC94-376C-5638-AE04E514D36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51259A63-BC94-376C-5638-AE04E514D36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51259A63-BC94-376C-5638-AE04E514D36E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

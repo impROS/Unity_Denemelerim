@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Public/Documents/Unity Projects/Standard Assets Example Project/Assets/de.unity
+  isLoaded: 1
+  isActive: 1
